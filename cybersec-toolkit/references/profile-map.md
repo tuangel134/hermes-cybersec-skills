@@ -1,0 +1,14 @@
+- `full`: all 18 modules
+- `ctf`: misc, crypto, pwn, reversing, stego, forensics, cracking, web, mobile, blockchain
+- `redteam`: misc, networking, recon, web, enterprise, pwn, mobile, cracking, cloud, wireless, reversing, crypto
+- `web`: misc, networking, recon, web
+- `osint`: misc, recon
+- `forensics`: misc, forensics, blueteam, reversing, stego, cracking
+- `pwn`: misc, pwn, reversing, crypto
+- `mobile`: misc, mobile, web, reversing
+- `cloud`: misc, cloud, containers, networking, recon
+- `blockchain`: misc, blockchain, web, crypto
+- `wireless`: misc, wireless, networking
+- `lightweight`: misc, networking, recon, web, cracking
+- `crackstation`: misc, cracking, crypto
+- `blueteam`: misc, blueteam, forensics, reversing, mobile, containers, networking, cloud, recon

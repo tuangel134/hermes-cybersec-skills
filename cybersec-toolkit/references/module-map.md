@@ -1,0 +1,18 @@
+- `misc`: 32 upstream tools — Post-exploitation, social engineering, wordlists, resources, C2 Docker.
+- `networking`: 54 upstream tools — Port scanning, packet capture, tunneling, MITM and protocol tools.
+- `recon`: 76 upstream tools — Subdomain enumeration, OSINT, DNS and automated recon frameworks.
+- `web`: 51 upstream tools — Vulnerability scanning, fuzzing, SQLi, XSS, CMS scanners and API testing.
+- `crypto`: 12 upstream tools — RSA attacks, cipher analysis, hash attacks and constraint solving.
+- `pwn`: 34 upstream tools — Exploit frameworks, binary exploitation, fuzzing and payload generation.
+- `reversing`: 31 upstream tools — Disassemblers, debuggers, emulation and reverse engineering.
+- `forensics`: 47 upstream tools — Disk/memory forensics, file carving, timeline/log analysis and hardware/serial.
+- `enterprise`: 76 upstream tools — Active Directory, Kerberos, Azure AD, credential harvesting and lateral movement.
+- `wireless`: 39 upstream tools — WiFi cracking, Bluetooth, SDR and rogue AP tooling.
+- `cracking`: 28 upstream tools — Hash cracking, brute force and wordlist generation.
+- `stego`: 13 upstream tools — Image/audio steganography, detection and StegCracker-style workflows.
+- `cloud`: 15 upstream tools — AWS/Azure/GCP security auditing and Checkov.
+- `containers`: 8 upstream tools — Docker/Kubernetes security with tools such as Grype, Syft, Kubescape, kubeaudit.
+- `blueteam`: 31 upstream tools — IDS/IPS, SIEM, IR, threat intelligence, malware analysis and YARA/ClamAV/FLOSS/Capa/Loki.
+- `mobile`: 12 upstream tools — Android/iOS app testing, APK analysis and MobSF Docker.
+- `blockchain`: 12 upstream tools — Smart contract auditing, blockchain forensics and Echidna Docker.
+- `llm`: 9 upstream tools — LLM red teaming, prompt injection, jailbreak testing and AI vulnerability scanning.
